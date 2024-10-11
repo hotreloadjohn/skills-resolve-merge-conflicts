@@ -1,6 +1,4 @@
-# Power Automate Test!!!!!!!!!!!!!
-## working?
-# GitHub Teacher
+# Power Automate Test!
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
